@@ -1,0 +1,27 @@
+---
+title: 中国技术传播大事记
+timezone: China/Beijing
+collections:
+  posts:
+    title: Posts
+    output: true
+  steps:
+    title: Steps
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: steps
+  values:
+    title: 
+    date: 2016-09-01 00:00:00 -0700
+markdown: kramdown
+highlighter: rouge
+lsi: false
+description: 记录中国技术传播发展的点点滴滴
+baseurl: 
+url: 
+color: "#f2f2f2"
