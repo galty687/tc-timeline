@@ -7,4 +7,4 @@ city: 北京
 
 全国首届技术写作师资力量班由北京大学软件与微电子学院和中国标准化协会联合举办，这次国内首次全国性集中培训。
 
-[来源: 北京大学技术传播协会](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+[来源: 北京大学技术传播协会](http://training.tc-edu.org)
